@@ -11,4 +11,4 @@ welcome to my blog，i will show my blog in this site laterly, im glad to meet n
 
 # 🐧
 
-![640 (1)](D:\Picture\dog\640 (1).jpg)
+<img src="../../\static\images\dog.jpg" alt="dog" style="zoom:25%;" />
