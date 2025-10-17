@@ -1,0 +1,9 @@
+baseURL = "https://your-temp-site.pages.dev/"
+languageCode = "zh-cn"
+title = "Vin的技术博客"
+theme = "PaperMod"
+
+[params]
+  author = "Vin"
+  ShowReadingTime = true
+  ShowShareButtons = true
